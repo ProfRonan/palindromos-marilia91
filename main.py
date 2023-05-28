@@ -13,22 +13,4 @@ def is_palindrome(string: str) -> bool:
     else:
         return False
 
-#texto = input(str("Digite uma string: "))
-
-"""def is_palindrome(string: str) -> bool:
-    string = string.strip().lower().isalnum()
-    letras = string.split()
-    letras_juntas = ''.join(letras)
-    if letras_juntas == letras_juntas[::-1]:
-        return True
-    else:
-        return False
-    
-    Check if string is palindrome."""
-    
-    #return False
-
-
-
-
 
